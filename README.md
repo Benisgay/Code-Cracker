@@ -1,2 +1,7 @@
 # Code-Cracker
-o365 = noob
+
+
+
+pip install beautifulsoup4
+pip install google
+to start
